@@ -1,0 +1,17 @@
+# Build artifacts
+/Debug/
+/Release/
+
+# Drivers
+/Drivers/
+
+# STM32CubeIDE project
+.project
+.cproject
+.mxproject
+.settings
+
+*.launch
+
+# VSCode properties
+.vscode
